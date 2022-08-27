@@ -8,6 +8,8 @@ Converts RGB to old school LCD-like image.
 
 Check `node index.js -h` for more info.
 
+Works best with medium-sized images at 50-100 resolution. Resolutions below 5 may result in significant artifacts.
+
 
 ### Sample images  
 Monterey sample image pulled from https://wallpapercave.com/w/wp9307169  
